@@ -11,9 +11,9 @@
 ```javascript
 const vivianafb = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node, Styled-Components, Gatsby, Docker],                     },
+  tools: [React, Node, Gatsby, Docker],                     
   currentProyect: "I’m currently working on my personal portfolio using on React",
   currentLearning: "I’m currently learning React and Typescript"
-}
+}},
 
 
