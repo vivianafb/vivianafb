@@ -1,6 +1,6 @@
 <h2> Hi, I'm Viviana Fajardo! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3RlbnYzNjN2Y2d4MXV4dGlxejgwazEyanV3bzZ0dnU5cmZjb2hveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhoNyvVjuB88HjDK0l/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="230" >
+<img align='right' src="https://media.giphy.com/media/bQuaUt4CYpmNzyw5pF/giphy.gif" width="230" >
 
 <p><em>Computer Enginner at <a href="https://portales.inacap.cl/sobre-nosotros/ip/?gclid=Cj0KCQjw8NilBhDOARIsAHzpbLD1vCCLtfRdnSx9zF6Uztr5F8VVh4pxnkSqGAXuUe6SlQlQMIhiAb0aAmYhEALw_wcB">INACAP Professional Institute</a>
 </em></p>
