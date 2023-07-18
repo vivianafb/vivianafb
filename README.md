@@ -13,7 +13,7 @@ const vivianafb = {
   code: [Javascript, Typescript, HTML, CSS, SASS],
   databases: [SQL, MongoDB, Firebase],
   tools: [React, Node, Gatsby, Docker, Bootstrap],                     
-  currentProyect: "I’m currently working on my personal portfolio using on React",
+  currentProyect: "I’m currently working on my personal portfolio using  React",
   currentLearning: "I’m currently learning React and Typescript"
 }},
 
