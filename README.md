@@ -1,4 +1,4 @@
-<h2> Hi, I'm Viviana Fajardo! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3RlbnYzNjN2Y2d4MXV4dGlxejgwazEyanV3bzZ0dnU5cmZjb2hveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhoNyvVjuB88HjDK0l/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Viviana Fajardo! <img src="https://media.giphy.com/media/iTTKKdJ7EZmWYNLOx3/giphy.gif" width="40"></h2>
 
 <img align='right' src="https://media.giphy.com/media/bQuaUt4CYpmNzyw5pF/giphy.gif" width="230" >
 
