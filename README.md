@@ -14,10 +14,20 @@
 
 ```javascript
 const vivianafb = {
-  code: [Javascript, Typescript, HTML, CSS, SASS],
-  databases: [SQL, MongoDB, Firebase],
-  tools: [React.js, Next.js, Node.js, Gatsby, Docker, Bootstrap],
-  currentLearning: "I’m currently learning Next.js and Typescript"
+frameworks:    [React.js, Next.js, Node.js]
+languages:     [JavaScript (ES6+), TypeScript, HTML5, CSS3/SASS]
+styling:       [Tailwind, Bootstrap]
+tooling:       [Docker, Webpack, Git, Jira]
+testing:       [Postman (API)]
+databases:     [SQL, MongoDB, Firebase]
+methodologies: [Scrum]
+softSkills:    ["clear communication (ENG-ES)", mentoring juniors, proactive problem-solving]
+achievements:
+  - "Led React-to-Next.js migration on B2C telecom platform"
+  - "Integrated Keycloak SSO and improved data traceability flows"
+currentlyLearning: "IBM Introduction to Data Science (Python, Pandas)"
+interests:  [wathching series, vlogging, gym training"]
+
 }},
 
 
