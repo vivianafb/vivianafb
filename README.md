@@ -3,8 +3,8 @@
 </em></p>
 <p><em>FrontEnd Developer at<a href="https://www.aaxisdigital.com/"> AAXIS DIGITAL</a>
 </em></p>
-<p><em>My Social Media:</p>
-<p><em><a href="https://www.linkedin.com/in/viviana-fajardo/" >Linkedin</a></p> 
+<p><em>My Social Media: <a href="https://www.linkedin.com/in/viviana-fajardo/" >Linkedin</a></p>
+
 
 
 ### A little more about me...  
