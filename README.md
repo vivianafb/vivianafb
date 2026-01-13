@@ -14,20 +14,54 @@
 
 ```javascript
 const vivianafb = {
-frameworks:    [React.js, Next.js, Node.js]
-languages:     [JavaScript (ES6+), TypeScript, HTML5, CSS3/SASS]
-styling:       [Tailwind, Bootstrap]
-tooling:       [Docker, Webpack, Git, Jira]
-testing:       [Postman (API)]
-databases:     [SQL, MongoDB, Firebase]
-methodologies: [Scrum]
-softSkills:    ["clear communication (ENG-ES)", mentoring juniors, proactive problem-solving]
-achievements:
-  - "Led React-to-Next.js migration on B2C telecom platform"
-  - "Integrated Keycloak SSO and improved data traceability flows"
-currentlyLearning: "IBM Introduction to Data Science (Python, Pandas)"
-interests:  [wathching series, vlogging, gym training"]
+role: "Front-End Developer",
+experience: "3+ years in web development & production support",
 
-}},
+frameworks:    [React.js, Next.js, Node.js],
+languages:     [JavaScript (ES6+), TypeScript, HTML5, CSS3/SASS],
+styling:       [Tailwind, Bootstrap, Shadcn/UI],
+stateAndStorage: [Zustand, LocalStorage, SessionStorage],
+dataFetching:  [REST, GraphQL],
+
+tooling:       [
+  Docker, Webpack, Git, GitLab CI/CD, Jenkins,
+  Postman, Jira, ESLint, Prettier, Figma
+],
+
+platforms:     [
+  Contentful, Gatsby, Algolia, Endeca, Akamai,
+  ATG/BCC, GitHub/GitLab, Datadog
+],
+
+testing:       ["Manual QA testing", API validation with Postman],
+databases:     [PostgreSQL, MongoDB, SQL, Firebase],
+infraAndLogs:  [Datadog, Redis, Google Cloud Logging],
+
+methodologies: ["Scrum", "Agile multidisciplinary teams"],
+
+softSkills:    [
+  "Clear communication (ENG-ES)",
+  "Cross-team collaboration with U.S. teams",
+  "Proactive problem-solving",
+  "Incident/production support ownership"
+],
+
+achievements: [
+  "Led React-to-Next.js migration on high-traffic B2C platform",
+  "Increased PageSpeed by 150% improving UX and conversion",
+  "Delivered L1/L2 production support ensuring platform uptime",
+  "Implemented secure SSO with Keycloak",
+  "Built AI sentiment platform with dashboards & Wordclouds"
+],
+
+currentlyLearning: [
+  "Meta Back-End Developer(Python)",
+],
+
+languagesProficiency: ["Spanish (native)", "English (advanced)"],
+
+interests: ["watching series", "gym training", "cats"]
+}
+},
 
 
