@@ -48,6 +48,6 @@ currentlyLearning: [
 ],
 languagesProficiency: ["Spanish (native)", "English (advanced)"],
 interests: ["watching series", "gym training", "cats"]
-},
+}
 
 
