@@ -1,5 +1,5 @@
 <h2> Hi, I'm Viviana Fajardo! <img src="https://media.giphy.com/media/iTTKKdJ7EZmWYNLOx3/giphy.gif" width="40"></h2>
-<p><em>Computer Enginner at <a href="https://portales.inacap.cl/sobre-nosotros/ip/?gclid=Cj0KCQjw8NilBhDOARIsAHzpbLD1vCCLtfRdnSx9zF6Uztr5F8VVh4pxnkSqGAXuUe6SlQlQMIhiAb0aAmYhEALw_wcB">INACAP Professional Institute</a>
+<p><em>Computer Enginner at <a href="https://portal.inacap.cl/carreras/area-informatica-ciberseguridad-y-telecomunicaciones/ingenieria-en-informatica?utm_source=google&utm_medium=cpc&utm_campaign=emcl_2025_inacap_admision-2026&utm_content=search_trafico_todos_keywords_general&utm_term=areas_informatica-ciberseguridad-y-telecomunicaciones_ingenieria-en-informatica_2025-oct-2_&gad_source=1&gad_campaignid=23078490947&gbraid=0AAAAADPY2PEsKZ2CtQaU60DxZpMVqBUbp&gclid=CjwKCAiA95fLBhBPEiwATXUsxOolvmoabwJnahtWpVcPcXlAKpG0bSHookAkxidm9cP7MRlhOHeE1xoC11sQAvD_BwE">INACAP Professional Institute</a>
 </em></p>
 <p><em>FrontEnd Developer at<a href="https://aaxis.ai"> AAXIS DIGITAL</a>
 </em></p>
