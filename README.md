@@ -1,53 +1,65 @@
-<h2> Hi, I'm Viviana Fajardo! <img src="https://media.giphy.com/media/iTTKKdJ7EZmWYNLOx3/giphy.gif" width="40"></h2>
-<p><em>Computer Enginner at <a href="https://portal.inacap.cl/carreras/area-informatica-ciberseguridad-y-telecomunicaciones/ingenieria-en-informatica?utm_source=google&utm_medium=cpc&utm_campaign=emcl_2025_inacap_admision-2026&utm_content=search_trafico_todos_keywords_general&utm_term=areas_informatica-ciberseguridad-y-telecomunicaciones_ingenieria-en-informatica_2025-oct-2_&gad_source=1&gad_campaignid=23078490947&gbraid=0AAAAADPY2PEsKZ2CtQaU60DxZpMVqBUbp&gclid=CjwKCAiA95fLBhBPEiwATXUsxOolvmoabwJnahtWpVcPcXlAKpG0bSHookAkxidm9cP7MRlhOHeE1xoC11sQAvD_BwE">INACAP Professional Institute</a>
-</em></p>
-<p><em>FrontEnd Developer at<a href="https://aaxis.ai"> AAXIS DIGITAL</a>
-</em></p>
-<p><em>My Social Media: <a href="https://www.linkedin.com/in/viviana-fajardo/" >Linkedin</a></p>
+<h2>Hi, I'm Viviana Fajardo!</h2>
+<p><em>Frontend Developer at <a href="https://aaxis.ai">AAXIS Digital</a></em></p>
+<p><em>Computer Engineer — <a href="https://portal.inacap.cl">INACAP Professional Institute</a></em></p>
+<p><em>My Social Media: <a href="https://www.linkedin.com/in/viviana-fajardo/">LinkedIn</a></em></p>
 
+---
 
+### 🌍 Languages
+🇨🇱 Spanish — Native &nbsp;&nbsp;|&nbsp;&nbsp; 🇺🇸 English — C1 Advanced
 
-### A little more about me...  
+---
+
+### 🚀 Featured Project
+
+**[OneBoard](https://one-board.vercel.app/dashboard)** — Personal finance dashboard built with Next.js, React, TypeScript, Zustand and Recharts. Features transaction tracking, spending categories, portfolio overview and monthly analytics. Deployed on Vercel.
+
+> 📂 [github.com/vivianafb/one-board](https://github.com/vivianafb/one-board)
+
+---
+
+### A little more about me...
 
 ```javascript
 const vivianafb = {
-role: "Front-End Developer",
-experience: "3+ years in web development & production support",
-frameworks:    [React.js, Next.js, Node.js],
-languages:     [JavaScript (ES6+), TypeScript, HTML5, CSS3/SASS],
-styling:       [Tailwind, Bootstrap, Shadcn/UI],
-stateAndStorage: [Zustand, LocalStorage, SessionStorage],
-dataFetching:  [REST, GraphQL],
-tooling:       [
-  Docker, Webpack, Git, GitLab CI/CD, Jenkins,
-  Postman, Jira, ESLint, Prettier, Figma
-],
-platforms:     [
-  Contentful, Gatsby, Algolia, Endeca, Akamai,
-  ATG/BCC, GitHub/GitLab, Datadog
-],
-testing:       ["Manual QA testing", API validation with Postman],
-databases:     [PostgreSQL, MongoDB, SQL, Firebase],
-infraAndLogs:  [Datadog, Redis, Google Cloud Logging],
-methodologies: ["Scrum", "Agile multidisciplinary teams"],
-softSkills:    [
-  "Clear communication (ENG-ES)",
-  "Cross-team collaboration with U.S. teams",
-  "Proactive problem-solving",
-  "Incident/production support ownership"
-],
-achievements: [
-  "Led React-to-Next.js migration on high-traffic B2C platform",
-  "Increased PageSpeed by 150% improving UX and conversion",
-  "Delivered L1/L2 production support ensuring platform uptime",
-  "Implemented secure SSO with Keycloak",
-  "Built AI sentiment platform with dashboards & Wordclouds"
-],
-currentlyLearning: [
-  "Meta Back-End Developer(Python)",
-],
-languagesProficiency: ["Spanish (native)", "English (advanced)"],
-interests: ["watching series", "gym training", "cats"]
+  role: "Frontend Developer",
+  experience: "4+ years building high-traffic web platforms",
+  frameworks:    ["React.js", "Next.js", "Node.js"],
+  languages:     ["JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3/SASS"],
+  styling:       ["Tailwind", "Shadcn/UI", "SASS"],
+  stateAndStorage: ["Zustand", "Context API"],
+  dataFetching:  ["REST", "GraphQL"],
+  tooling:       [
+    "Git", "GitLab CI/CD", "Jenkins",
+    "Postman", "Jira", "ESLint", "Prettier", "Figma"
+  ],
+  platforms:     [
+    "Contentful", "Gatsby", "Datadog",
+    "GitHub/GitLab", "PagerDuty"
+  ],
+  testing:       ["Jest", "React Testing Library", "QA/Smoke Testing"],
+  databases:     ["PostgreSQL", "MongoDB", "SQL", "Firebase"],
+  auth:          ["Keycloak", "OAuth2/OIDC", "SSO"],
+  methodologies: ["Scrum", "Kanban", "Agile multidisciplinary teams"],
+  softSkills:    [
+    "Clear communication (ENG-ES)",
+    "Cross-team collaboration with U.S. and Asian teams",
+    "Proactive problem-solving",
+    "Technical leadership"
+  ],
+  achievements: [
+    "Led React-to-Next.js migration — +150% PageSpeed improvement",
+    "Technical lead for 3-developer team, delivered in 3 months",
+    "Restored critical e-commerce platform outage in under 1 hour",
+    "Implemented secure SSO with Keycloak on Next.js platform",
+    "Built AI sentiment analysis platform with real-time dashboards"
+  ],
+  currentlyLearning: [
+    "Diploma in Artificial Intelligence — UAI (ML & Deep Learning)",
+    "Python — CS50P (Harvard)",
+    "Jest + React Testing Library"
+  ],
+  languagesProficiency: ["Spanish (native)", "English (C1 advanced)"],
+  interests: ["watching series", "gym training", "cats"]
 }
-
-
+```
