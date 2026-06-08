@@ -10,6 +10,11 @@
 
 ---
 
+### 📚 Currently Learning
+🤖 Diploma in Artificial Intelligence — UAI (Machine Learning & Deep Learning) &nbsp;&nbsp;|&nbsp;&nbsp; 🐍 <a href="https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python">Python — CS50P (Harvard)</a>
+
+---
+
 ### 🚀 Featured Project
 
 **[OneBoard](https://one-board.vercel.app/dashboard)** — Personal finance dashboard built with Next.js, React, TypeScript, Zustand and Recharts. Features transaction tracking, spending categories, portfolio overview and monthly analytics. Deployed on Vercel.
@@ -43,7 +48,7 @@ const vivianafb = {
   methodologies: ["Scrum", "Kanban", "Agile multidisciplinary teams"],
   softSkills:    [
     "Clear communication (ENG-ES)",
-    "Cross-team collaboration with U.S. and Asian teams",
+    "Cross-team collaboration with international teams across multiple time zones",
     "Proactive problem-solving",
     "Technical leadership"
   ],
